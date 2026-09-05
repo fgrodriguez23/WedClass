@@ -1,0 +1,12 @@
+# Francisco Rodriguez
+# This program calculates how much money I earned.
+
+# These variables store my hours and pay.
+hours_worked = 5
+pay_per_hour = 10
+
+# Multiply the variables to find my total pay.
+total_pay = hours_worked * pay_per_hour
+
+# Print the answer.
+print("My total pay is", total_pay, "dollars.")
