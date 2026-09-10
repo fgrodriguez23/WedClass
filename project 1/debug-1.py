@@ -11,9 +11,3 @@ num3 = int(input("What's the third number? >"))
 total = num1 + num2 + num3
 
 print(f"Total is: {total}")
-
-
-
-
-
-
